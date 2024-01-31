@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently leading the devolepment of the new student platform of my University using React.<br>🌱 I’m currently learning Python with FastAPI.<br>👯 I’m looking to collaborate on any React related project.<br>🎮 I'm looking forward to learn Game Dev with Unity and Mobile Dev with React Native or Flutter.</p>
+<p align="left">🔭 I’m currently leading the devolepment of the new student platform of my University using React.<br>🌱 I’m currently learning Next.js and Python.<br>👯 I’m looking to collaborate on any project.<br>🎮 I'm looking forward to learn Game Dev with Unity and Mobile Dev with React Native or Flutter.</p>
 
 ###
 
