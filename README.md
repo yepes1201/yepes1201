@@ -3,7 +3,7 @@
 ###
 <p align="left">Specialized in building full-stack systems. Always striving to create high-quality and scalable digital products. Currently developing the new institutional web application for the Universidad Autónoma del Caribe. Expert in languages and technologies such as C#, JavaScript, .NET, React, and PostgreSQL.</p>
 <br />
-<p align="left">🔭 I’m currently leading the devolepment of the new student platform of my University using React.<br>📚 I’m currently learning about architecture and software patterns.<br>👨‍🏭 I’m looking to collaborate on any project.<br>🎮 I'm looking forward to learn Game Dev with Unity and Mobile Dev with React Native or Flutter.</p>
+<p align="left">🔭 I’m currently leading the devolepment of the new student platform of my University using React.<br>📚 I’m currently learning about architecture and software patterns.<br>👨‍🏭 I’m looking to collaborate on any project.<br>⚙️ I'm currently applying my knowledge and skills into personal projects.</p>
 
 ###
 
