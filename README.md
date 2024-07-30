@@ -43,8 +43,8 @@
   <a href="https://www.linkedin.com/in/daniel-yepes-094757228/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/daniely1201" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://www.instagram.com/danielyepesl/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.instagram.com/danielyepesl/" target="_blank">
     <img alt="X (formerly Twitter) Follow" height="35" src="https://img.shields.io/twitter/follow/daniely1201">
