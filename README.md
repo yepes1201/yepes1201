@@ -9,8 +9,8 @@
 
 - **Languages:** JavaScript, TypeScript, C#, Python
 - **Frontend:** React, Next.js, HTML5 & CSS3, Tailwind CSS
-- **Backend:** .NET, Node.js, FastAPI
-- **Databases:** PostgreSQL, Supabase, MySQL  
+- **Backend:** .NET, Node.js, Nest.js, FastAPI
+- **Databases:** PostgreSQL, Supabase, MySQL, IBM DB2
 - **DevOps & Tools:** Docker, Git
 - **Others:** REST APIs, WebSockets
 
