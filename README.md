@@ -32,7 +32,8 @@
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [linkedin.com/in/daniel-yepes-094757228](https://www.linkedin.com/in/daniel-yepes-094757228/)  
+- **LinkedIn:** [linkedin.com/in/daniel-yepes-094757228](https://www.linkedin.com/in/daniel-yepes-094757228/)
+- **X (Twitter):** [x.com/daniely1201](https://x.com/daniely1201)
 - **Email:** contact@danielyepes.com
 
 ---
