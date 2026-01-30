@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Daniel Yepes
+# Hi, I'm Daniel Yepes
 
-💻 **Software Engineer** with more than 3 years of full-stack development experience, specialized in **React**, **.NET**, **PostgreSQL**, and deployments with **Docker**.  
-🚀 Passionate about building scalable, well-structured solutions, from web and mobile applications to robust APIs.
+**Software Engineer** with more than 3 years of full-stack development experience, specialized in **React**, **.NET**, **PostgreSQL**, and deployments with **Docker**.  
+Passionate about building scalable, well-structured solutions, from web and mobile applications to robust APIs.
 
 ---
 
-## 🛠 Tech Stack & Tools
+## Tech Stack & Tools
 
 - **Languages:** JavaScript, TypeScript, C#, Python
 - **Frontend:** React, Next.js, HTML5 & CSS3, Tailwind CSS
@@ -16,21 +16,21 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 - **Utils** – A collection of reusable functions for JS/TS projects.
 - *(Coming soon)* More personal projects and experiments with live demos.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=yepes1201&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yepes1201&layout=compact&theme=dracula)
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 - **LinkedIn:** [linkedin.com/in/daniel-yepes-094757228](https://www.linkedin.com/in/daniel-yepes-094757228/)
 - **X (Twitter):** [x.com/daniely1201](https://x.com/daniely1201)
