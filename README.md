@@ -1,25 +1,21 @@
 # Hi, I'm Daniel Yepes
 
-**Software Engineer** with more than 3 years of full-stack development experience, specialized in **React**, **.NET**, **PostgreSQL**, and deployments with **Docker**.  
-Passionate about building scalable, well-structured solutions, from web and mobile applications to robust APIs.
+I’m a full-stack software engineer with over 4 years of experience specializing in React, .NET, PostgreSQL, and Docker deployments.
+
+I’m passionate about building applications that are not only functional, but also scalable, maintainable, and user-focused.
+Throughout my career, I’ve worked on web and mobile projects integrating APIs, optimizing performance, and applying best practices in software architecture. I also enjoy sharing knowledge, documenting processes, and helping teams work more efficiently.
 
 ---
 
 ## Tech Stack & Tools
 
-- **Languages:** JavaScript, TypeScript, C#, Python
-- **Frontend:** React, Next.js, HTML5 & CSS3, Tailwind CSS
+- **Languages:** TypeScript, C#, Python
+- **Frontend:** React, Next.js, Angular
 - **Backend:** .NET, Node.js, Nest.js, FastAPI
-- **Databases:** PostgreSQL, Supabase, MySQL, IBM DB2
+- **Databases:** PostgreSQL, MySQL, IBM DB2, SQL Server
 - **DevOps & Tools:** Docker, Git
+- **Cloud**: Cloudflare, AWS
 - **Others:** REST APIs, WebSockets
-
----
-
-## Featured Projects
-
-- **Utils** – A collection of reusable functions for JS/TS projects.
-- *(Coming soon)* More personal projects and experiments with live demos.
 
 ---
 
